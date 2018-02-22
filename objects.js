@@ -1,1 +1,1 @@
-var playlist = {key: object};
+var playlist = {artistName: object};
