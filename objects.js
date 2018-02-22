@@ -1,4 +1,4 @@
-var playlist = {artistName: 'songTitle'};
+var playlist = {Switchfoot: 'Free'};
 
 function updatePlaylist(playlist, artistName, songTitle){
   playlist[artistName] = songTitle;
